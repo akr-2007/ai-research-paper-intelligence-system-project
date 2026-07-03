@@ -1,4 +1,3 @@
-# ai-research-paper-intelligence-system-project
 # AI Research Paper Intelligence System
 
 ### Semantic Search & AI-Powered Research Summarization using Sentence Transformers, FAISS, and T5
