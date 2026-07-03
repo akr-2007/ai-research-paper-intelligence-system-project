@@ -34,7 +34,7 @@ The dataset contains Machine Learning research papers including:
 * Paper Title
 * Abstract
 
-Approximately **15,000 research papers** were processed.
+Approximately 15,000 research papers were processed.
 
 ---
 
@@ -77,7 +77,7 @@ Each research paper was converted into a semantic embedding that captures contex
 
 ### 3. Vector Database Construction
 
-Implemented **FAISS (Facebook AI Similarity Search)** to build a high-performance vector index.
+Implemented FAISS (Facebook AI Similarity Search) to build a high-performance vector index.
 
 Steps included:
 
@@ -103,7 +103,7 @@ Unlike traditional search engines, retrieval is based on contextual similarity r
 
 ### 5. AI-Powered Summarization
 
-Integrated the **T5-small Transformer** model to automatically summarize retrieved research papers.
+Integrated the T5-small Transformer model to automatically summarize retrieved research papers.
 
 The generated summaries provide concise research briefs, helping users quickly understand the core contributions of each paper.
 
