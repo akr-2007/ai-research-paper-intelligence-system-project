@@ -66,10 +66,8 @@ Approximately 15,000 research papers were processed.
 ### 2. Semantic Embedding Generation
 
 Generated dense vector representations using:
-
-**Sentence Transformer**
-
-* all-MiniLM-L6-v2
+Sentence Transformer
+all-MiniLM-L6-v2
 
 Each research paper was converted into a semantic embedding that captures contextual meaning rather than relying on exact keyword matches.
 
